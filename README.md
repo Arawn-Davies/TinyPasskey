@@ -1,6 +1,6 @@
 # TinyPasskey
-ATTiny85 keyboard emulator for macro key entry. Adapted from : https://learn.adafruit.com/trinket-usb-keyboard/code
-Download the required ATTiny85 library for use in the Arduino IDE, or Atmel Studio
+ATTiny85 keyboard emulator for macro key entry. Adapted from : https://learn.adafruit.com/trinket-usb-keyboard/code  
+Download the required ATTiny85 library for use in the Arduino IDE, or Atmel Studio : https://github.com/adafruit/Adafruit-Trinket-USB/archive/master.zip  
 
 I made this to simply show how one could use the Atmel ATTiny85 microcontroller to emulate a USB keyboard,  
 automatically pressing standard ASCII values used on USB keyboards. An example of this could be for entering  
